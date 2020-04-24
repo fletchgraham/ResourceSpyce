@@ -15,4 +15,4 @@ RS = Spyce(
 print(RS.do_search('dog'))
 ```
 
-The above example would return the json response.
+The above example would print out the json response.
