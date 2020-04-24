@@ -1,2 +1,2 @@
 # ResourceSpyce
-python wrapper for the ResourceSpace
+python wrapper for the ResourceSpace API
