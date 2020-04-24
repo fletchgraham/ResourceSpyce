@@ -1,7 +1,7 @@
 import requests
 import hashlib
 
-class Spyce:
+class ResourceSpace:
     def __init__(self, base_url='', user='admin', private_key=''):
         self.base_url = base_url
         self.user = user
